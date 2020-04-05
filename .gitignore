@@ -1,0 +1,13 @@
+build/
+dist/
+coverage/
+node_modules/
+.npm
+vv/
+venv/
+.tox
+*.pyc
+*.egg-info
+*.log
+.idea/
+.DS_Store
